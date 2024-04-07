@@ -32,7 +32,9 @@ public class Convertidor {
         return "Convertidor{" + "num=" + num + '}';
     }
 
-    
+    public void  hola(){
+        System.out.println("Hola mundo");
+    }
     
 
 }
